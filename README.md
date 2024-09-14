@@ -22,4 +22,4 @@ To build with minification run:
 ```bash
 npm run build:min
 ```
-both of these commands will create a bundle.js file.
+Both of these commands will create a bundle.js filewith the polyfills.
