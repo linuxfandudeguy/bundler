@@ -7,6 +7,7 @@ In order to start working with `bundler`, run the following command:
 ```bash
 git clone https://github.com/linuxfandudeguy/bundler.git
 cd bundler
+npm install
 ```
 
 then modify the `src/index.js` file to specify what files you want to combine.
